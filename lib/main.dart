@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:audioplayers/audio_cache.dart';
-AudioCache player = new AudioCache(prefix: 'sounds/');
+AudioCache player = new AudioCache(prefix: 'assets/audio/');
 
 void main() => runApp(MyApp());
 
